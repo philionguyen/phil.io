@@ -2,26 +2,26 @@
     {
         "name": "Regular",
         "cafeine": "medium",
-		"origin": "NA"
-	},
+	"origin": "NA"
+    },
     {
         "name": "Hazelnut",
         "cafeine": "light",
-		"origin": "France"
+	"origin": "France"
     },
     {
         "name": "Decaf",
         "cafeine": "medium",
-		"origin": "Germany"
-	},
+	"origin": "Germany"
+    },
     {
-		"name": "Americano",
-		"cafeine": "strong",
-		"origin": "America"
-	},
+	"name": "Americano",
+	"cafeine": "strong",
+	"origin": "America"
+    },
     {
         "name": "Latte",
-        "cafeine": "light"
-		"origin": "Japan"
-	}
+        "cafeine": "light",
+	"origin": "Japan"
+    }
 ]
